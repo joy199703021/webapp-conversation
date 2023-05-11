@@ -1,11 +1,11 @@
 import { AppInfo } from "@/types/app"
-export const APP_ID = '35aa4064-fc25-405e-a977-4b97184150aa'
-export const API_KEY = 'app-yHL2nEaJ4McC8G9aGxv796io'
+export const APP_ID = '59354686-3913-42bb-868e-6b09463f9f8a'
+export const API_KEY = 'app-Fvk8LAqIUn36Mc6n5yt5cq3f'
 
 export const APP_INFO: AppInfo = {
-  "title": 'Chat APP',
+  "title": '施老师的小黑屋',
   "description": '',
-  "copyright": '',
+  "copyright": '施老师的小白屋',
   "privacy_policy": '',
   "default_language": 'zh-Hans'
 }
